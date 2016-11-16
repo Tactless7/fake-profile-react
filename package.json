@@ -1,0 +1,25 @@
+{
+  "name": "10-faker-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tactless7/fake-profile-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tactless7/fake-profile-react/issues"
+  },
+  "homepage": "https://github.com/Tactless7/fake-profile-react#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "faker": "^3.1.0",
+    "jquery": "^3.1.1"
+  }
+}
